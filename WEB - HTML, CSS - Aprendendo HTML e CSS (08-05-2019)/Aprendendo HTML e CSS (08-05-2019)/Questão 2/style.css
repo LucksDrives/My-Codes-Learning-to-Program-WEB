@@ -1,0 +1,14 @@
+main{
+text-align: center;	
+margin-top:280px;
+border-style: solid;
+margin-left:35%;
+width:30%;
+font-family: georgia;
+border-spacing:1px;
+
+}
+main p{	
+color: black;
+font-size: 16px;
+}

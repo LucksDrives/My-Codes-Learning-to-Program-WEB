@@ -1,0 +1,86 @@
+body {
+	font-family: arial;
+	background-image: url("http://www.armarinhospolo.com.br/aprovado_29_09_2016/");
+	
+	
+	
+	
+    
+	}
+
+header img{ 
+width: 100%;
+
+	
+}
+
+.NAV li{ 
+font-family: impact;
+display: inline;
+margin-right:180px;
+margin-left: 180px;	
+font-size: 30px;
+text-align: center;
+	
+}
+	
+.titulo0 {
+font-family: impact; 
+	border: 2px solid white;
+	text-align: center;
+	font-size: 36px;
+	border-top: none;
+	border-bottom:none;
+}	
+	
+.titulo1 {
+	font-family: impact;
+	border: 2px solid black;
+	
+	text-align: center;
+	font-size: 20px;
+	border-top: none;
+	border-bottom:none;
+	}
+	
+.titulo2 {
+	font-family: impact;
+	border: 2px solid black;
+	
+	text-align: center;
+	font-size: 20px;
+	border-top: none;
+	border-bottom:none;
+}
+
+
+.titulo3{
+	font-family: impact;
+	border: 2px solid black;
+	
+	text-align: center;
+	font-size: 20px;
+	border-top: none;
+	border-bottom:none;
+}
+
+
+.1{
+	font-family: arial;
+}
+
+.2{
+	font-family: arial;
+}
+
+.3{
+	font-family: arial;
+}
+
+
+
+.Rodape{
+	font-family: arial;
+}
+
+

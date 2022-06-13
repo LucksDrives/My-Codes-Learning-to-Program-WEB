@@ -1,0 +1,164 @@
+/* ESTILO CSS */
+
+body{
+    letter-spacing: 0.04em;
+}
+
+body:hover{
+    -webkit-transition: all 200ms ease-in;
+    -moz-transition: all 200ms ease-in;
+    -ms-transition: all 200ms ease-in;		
+    transition: all 200ms ease-in;
+}
+
+.voltar{
+    color: #0466C8;
+    font-weight: bold;
+    float: right;
+    margin-right: 20%;
+    margin-top: 0.5%;    
+}
+
+.voltar button{
+    color: #0466C8;
+    font-weight: bold;
+    cursor: pointer;
+    border-radius: 4px;
+}
+
+.voltar:hover{
+    opacity: 80%;
+}
+
+.body1{
+    background-color: #e4f2f7;  
+}
+
+.body2{
+    background-color: #e4f2f7;  
+}
+
+.button{
+    color: #0466C8;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.button:hover{
+    opacity: 80%;
+    cursor: pointer;
+}
+
+.titul{
+    color: #0466C8;
+    font-weight: bolder;
+    background-color: #e4f2f7;
+    font-size: 18px;
+}
+
+.cabecalho{
+    width: 102%;
+    margin-top: -1%;
+    margin-left: -1%;
+}
+
+.tudo1{
+    padding-left:32%;
+}
+
+table{
+    margin-left: 18%;
+    background-color: #e4f2f7;
+}
+
+#lista{
+    font: 13px Verdana, Geneva, sans-serif;
+    border: 1px solid #999;
+    padding: 5px;
+    float: left;
+    width: auto;
+    height: auto;
+}
+
+#lista .funcionario{
+    height: 16px;
+}
+
+#lista .funcionario + .funcionario{
+    margin: 7px 0 0 0;
+}
+
+#lista .funcionario img{
+    border: 0;
+}
+
+#lista .funcionario .nome{
+    float: left;
+    width: 245px;
+}
+
+#lista .funcionario .editar{
+    float: left;
+    margin: 0 0 0 10px;
+}
+
+#lista .funcionario .excluir{
+    float: left;
+    margin: 0 0 0 10px;
+}
+
+#lista .funcionario .visualizar{
+    float: left;
+    margin: 0 0 0 10px;
+}
+
+#lista .funcionario .editar:hover{
+    float: left;
+    margin: 0 0 0 10px;
+    opacity: 70%;
+}
+
+#lista .funcionario .excluir:hover{
+    float: left;
+    margin: 0 0 0 10px;
+    opacity: 70%;
+}
+
+#lista .funcionario .visualizar:hover{
+    float: left;
+    margin: 0 0 0 10px;
+    opacity: 70%;
+}
+
+#formulario{
+    float: left;
+    width: 300px;
+    margin: 0 0 0 20px;
+}
+
+#formulario label{
+    font: 13px Verdana, Geneva, sans-serif;
+}
+
+#formulario input[name="nome"]{
+    width: 295px;
+}
+
+#formulario input[name="email"]{
+    width: 293px;
+}
+
+#formulario input[name="senha"]{
+    width: 295px;
+}
+
+#formulario input[type="submit"]{
+    font: 20px Verdana, Geneva, sans-serif;
+    width: 299px;
+}
+
+.visul{
+    padding-bottom: 100px;
+}
+
+

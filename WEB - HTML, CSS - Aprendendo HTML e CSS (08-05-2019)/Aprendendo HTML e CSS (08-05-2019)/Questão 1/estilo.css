@@ -1,0 +1,76 @@
+body {
+font-family:Verdana;
+margin: 0px;
+}
+
+p {
+font-size:12pt;
+margin: 0px;
+}
+
+header img {
+width:100%;
+margin: 0px;
+}
+
+nav{
+font-family:Verdana;	
+background-color:  #00FF7F;
+height: 40px;
+text-align: center;
+margin: 0px;
+font-size: 22px;
+}
+
+nav a{
+font-family:Verdana;
+color: #2F4F4F; 
+text-decoration: none; 
+margin: 0px;
+}
+
+nav a:hover{
+font-family:Verdana;	
+color: red;
+font-style: bold;
+text-decoration: underline;
+margin: 0px;
+}
+main{
+font-family:Verdana;
+margin: 0px;
+float:left;	
+margin: 0px;
+width: 50%;
+}
+#sec1{
+font-family:Verdana;
+background-color:#A0522D;	
+color: white;
+height: 220px;
+margin-top: -20px;
+}
+#sec2{
+font-family:Verdana;
+background-color: #DAA520;	
+color: black;
+height: 180px;	
+margin-top: -20px;
+}
+aside{
+font-family:Verdana;	
+color: black;
+height: 400px;
+background-color: #B0C4DE;
+float: right;
+width:50%;
+margin: 0px;
+}
+footer{
+font-family:Verdana;	
+color: black;
+background-color: #00FF7F;
+height: 50px;	
+clear: both;
+margin: 0px;
+}
